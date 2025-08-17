@@ -2,6 +2,10 @@
   "name": "bedrock-versions",
   "version": "1.0.1",
   "description": "Easily fetch latest published versions of Minecraft Bedrock Dedicated Server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djstompzone/bedrock-versions.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +19,6 @@
     "bedrock",
     "pocket"
   ],
-  "author": "DJ Stomp",
+  "author": "DJ Stomp <85457381+DJStompZone@users.noreply.github.com> (https://discord.stomp.zone)",
   "license": "MIT"
 }
