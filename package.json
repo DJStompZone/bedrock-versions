@@ -1,0 +1,20 @@
+{
+  "name": "bedrock-versions",
+  "version": "1.0.1",
+  "description": "Easily fetch latest published versions of Minecraft Bedrock Dedicated Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BDS",
+    "MCPE",
+    "MCBE",
+    "bedrock-protocol",
+    "minecraft",
+    "bedrock",
+    "pocket"
+  ],
+  "author": "DJ Stomp",
+  "license": "MIT"
+}
